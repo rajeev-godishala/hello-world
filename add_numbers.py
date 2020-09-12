@@ -1,0 +1,6 @@
+print("")
+print("This program computes and prints the sum of two numbers entered by the user")
+print("")
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+print(f"\n The sum of {num1} and {num2} is {num1+num2}")
